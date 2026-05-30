@@ -1,0 +1,6 @@
+streamlit
+tesnorflow
+numpy
+pillow
+matplotlib
+opencv-python
