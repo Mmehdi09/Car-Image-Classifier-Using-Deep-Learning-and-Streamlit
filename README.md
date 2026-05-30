@@ -1,11 +1,11 @@
 # Car-Image-Classifier-Using-Deep-Learning-and-Streamlit
-This project applies Deep Learning and Computer Vision to classify vehicle images. Built with TensorFlow and Streamlit, it provides real-time car recognition, confidence scores, and interactive visualizations. The system offers an accurate, scalable, and user-friendly solution for intelligent vehicle identification and analysis.-
+This project applies Deep Learning and Computer Vision to classify vehicle images. Built with TensorFlow and Streamlit, it provides real-time car recognition, confidence scores, and interactive visualizations. The system offers an accurate, scalable, and user-friendly solution for intelligent vehicle identification and analysis.
 
 ## Problem Statement
 
 Manual identification of vehicle types from images is time-consuming, error-prone, and not scalable for modern intelligent systems such as traffic monitoring, smart parking, and automated surveillance. There is a need for an automated, accurate, and efficient system capable of classifying vehicle images into predefined categories using computer vision techniques.
 
----
+
 
 ## Proposed Solution
 
@@ -13,7 +13,7 @@ To address this problem, a deep learning-based image classification system is de
 
 A Streamlit-based web application is integrated to provide an interactive interface where users can upload images and receive instant predictions along with confidence scores and top-3 class probabilities.
 
----
+
 
 ## Model Used
 
@@ -42,7 +42,6 @@ The model outputs the highest probability class as the final prediction along wi
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f1a70087-e9a6-4960-bdf1-a53685619ead" />
 
----
 
 ## System Outcome
 
